@@ -1,4 +1,4 @@
-print("Hello Git")
+print("Hello Github")
 print("git reset hard")
 print("git tag")
 
